@@ -1,0 +1,1033 @@
+body{
+margin: 0;
+}
+div#container{
+	width: 100%; 
+
+}
+.clearfix{
+	clear: both;
+}
+
+
+div#img{
+	margin: 0;
+	width: 100%;
+	height: 1000px;
+	background-image: url("images/image1.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+
+}
+div#img ul{
+	width:95%;
+	height:30px;
+}
+div#img li{
+	color: white;
+	font-size:20px;
+	font-family: all;
+	margin-left: 5%;
+	float: left;
+	list-style-type: none;
+	margin-top: 30px;
+}
+div#img li.l4{
+	float: right;
+	margin-left: 0px;
+}
+div#img li.l4 button{
+	
+	background-color: inherit;
+	color: white;
+	font-size: 20px;
+	outline: none;
+	border:none;
+
+}
+div#img li.l3 {
+margin-left: 43%;
+}
+div#img li.l3 input{
+	background-color: inherit;
+	border:none;
+	outline: none;
+	height: 30px;
+	margin-top: 40px;
+	color: white;
+	border-bottom:2px solid white;
+}
+
+
+
+
+div#text1 div#icons i{
+float: left;
+margin-top:90px;
+margin-left: 1%;
+}
+div#text1 div#icons .fa{
+	background-color:#545551;
+	width: 4%;
+	height: 30px;
+	border-radius: 100%;
+	color: white;
+	text-align: center;
+	padding-top: 15px;
+}
+div#text1 div#icons .fa:hover{
+	background-color:#3B5998;
+}
+
+div#text1 div#icons1 i{
+float: left;
+margin-top:90px;
+margin-left: 1%;
+}
+
+div#text1 div#icons1 .fa{
+	background-color:#545551;
+	width: 4%;
+	height: 30px;
+	border-radius: 100%;
+	color: white;
+	text-align: center;
+	padding-top: 15px;
+}
+
+div#text1 div#icons1 .fa:hover{
+	background-color:#55ACEE;
+}
+div#text1 div#sure i{
+/*float: left;*/
+margin-top:90px;
+margin-left: 1%;
+}
+
+div#text1 div#sure .fa{
+	background-color:#545551;
+	width: 4%;
+	height: 30px;
+	border-radius: 100%;
+	color: white;
+	text-align: center;
+	padding-top: 15px;
+}
+
+div#text1 div#sure .fa:hover{
+	background-color:orange;
+}
+
+
+div#text1 div#addy i{
+/*float: left;*/
+margin-top:90px;
+margin-left: 1%;
+}
+
+div#text1 div#addy .fa{
+	background-color:#545551;
+	width: 4%;
+	height: 30px;
+	border-radius: 100%;
+	color: white;
+	text-align: center;
+	padding-top: 15px;
+}
+
+div#text1 div#addy .fa:hover{
+	background-color:orange;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.clearfix{
+	clear: both;
+}
+div#img div#text1{
+	width: 100%;
+	height: 50px;
+	background-color:#212121;
+	padding-bottom: 100px;
+
+
+
+}
+div#text1 li{
+	float: left;
+		list-style-type: none;
+		margin:1%;
+
+}
+
+
+div#textli h1{
+	color: white;
+	list-style-type: none;
+	font-size:100px;
+
+
+}
+
+div#textli h4 {
+	color: white;
+	list-style-type: none;
+	text-decoration: none;
+ 	margin-top:30px;
+
+
+}
+div#text1 li a {
+text-decoration:none;
+color: white;
+
+}
+li  a h4:hover{
+cursor: pointer;
+color: yellow;
+}
+ div#ola div#olalo{
+	height: 50px;
+	margin: 0;
+}
+ div#ola div#olalo{
+	margin-left: 10%;
+}
+ div#ola div#olalo li h1{
+	color: white;
+	text-align: center;
+	font-size:400px;
+	margin-top: 100px;
+
+
+}
+ div#ola div#olalo li{
+	float: left;
+	list-style-type: none;
+	animation-name: li;
+	animation-duration: 2s;
+	animation-iteration-count: infinite;
+	transition: 0.5s;
+}
+@keyframes li{
+0% {opacity: 0;}
+100% {opacity: 1;}
+}
+div#img div#ola div#olalo li h4{
+	color: white;
+	text-align: center;
+	font-size: 40px;
+	margin-top:400px;
+   
+}
+
+
+
+
+div#ola div#olalor{
+	height: 50px;
+	margin: 0;
+}
+ /*div#ola div#olalor{
+	margin-left: 10%;
+}*/
+ div#ola div#olalor li h1{
+	color: white;
+	text-align: center;
+	font-size:300px;
+	margin-top: 100px;
+
+
+}
+ div#ola div#olalor li{
+	float: left;
+	list-style-type: none;
+	animation-name: li;
+	animation-duration: 2s;
+	animation-iteration-count: infinite;
+	transition: 0.5s;
+
+}
+@keyframesli{
+0% {opacity: 0;}
+100% {opacity: 1;}
+}
+div#img div#ola div#olalor li h4{
+	color: white;
+	/*text-align: center*/;
+	font-size: 40px;
+	margin-top:400px;
+   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+div#file {
+	width: 100%;
+	height: 800px;
+}
+div#file div#file1 h1{
+text-align: center;
+color:black;
+font-size: 100px;
+margin: 0px;
+
+}
+div#file div#file2 h4{
+text-align: center;
+color:#999999;
+font-size:20px;
+
+}
+div#ola1{
+	margin: 0;
+	width: 100%;
+	height: 730px;
+	background-image: url("images/1.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin-top: 50px;
+	padding-top: 20px;
+    background-attachment: fixed;
+}
+div#ola1 div#ola3 h2{
+	color:white;
+	text-align: center;
+	font-size: 50px;
+}
+div#ola1 div#ola3 h4{
+	color: white;
+	text-align: center;
+}
+div#ola1 div#ola2 h2{
+	color: white;
+padding-top: 40px;
+}
+div#ola1 div#ola2 h4{
+	color: white;
+     margin-top: 0;
+
+}
+div#ola1 div#ola2 li{
+width: 30%;
+height:30px;
+margin-left: 150px;
+float: left;
+list-style-type: none;
+
+}
+div.cleafix{
+	clear: both;
+}
+div#ola1 div#ola4 h2{
+	color: white;
+padding-top: 250px;
+}
+div#ola1 div#ola4 h4{
+	color: white;
+
+}
+div#ola1 div#ola4 li{
+width: 30%;
+height:30px;
+margin-left: 150px;
+float: left;
+list-style-type: none;
+
+}
+div.cleafix{
+	clear: both;
+}
+div.card2 div{
+	width: 50%;
+	height:1px;
+	float: left;
+	margin-top: 456px;
+}
+div.clearfix{
+	clear: both;
+}
+
+div.card2 div.my h1{
+	margin-top: 60px;
+	margin-right: 5%;
+	font-size: 50px;
+}
+
+div.card2 div.my h2{
+	margin-left: 50px;
+	margin-right: 50px;
+
+
+}
+
+div.card2 div.my h4{
+margin-left: 50px;
+	margin-right: 50px;
+	color:#A2A2A2;
+
+}
+.clearfix{
+	clear: both;
+}
+
+div#off{
+	width: 100%;
+	height: 930px;
+	background-color:#EBEBEB;
+
+}
+
+div#off div#text h1{
+	text-align: center;
+	padding-right: 70px;
+
+}
+div#off div#text h4{
+	text-align: center;
+color:#A9A9A9;
+
+
+}
+div#off div#images1{
+float: left;
+	margin:80px;
+
+}
+div#off div#images1 div{
+   float: left;
+	margin-left:8px;
+
+}
+div#off div#images1 div img:hover{
+	color:inherit;
+	border:2px solid white;
+   
+}
+.clearfix{
+	clear: both;
+
+}
+div#off div#images2{
+	float: left;
+	margin:80px;
+	margin-top:-75px;
+}
+div#off div#images2 div{
+   float: left;
+	margin-left:8px;
+
+}
+.clearfix{
+	clear: both;
+
+}
+div#off div#images3{
+	float: left;
+	margin:80px;
+	margin-top:-75px;
+}
+div#off div#images3 div{
+   float: left;
+	margin-left:8px;
+
+}
+.clearfix{
+	clear: both;
+
+}
+
+div#test h1{
+	text-align: center;
+	margin-bottom:px;
+}
+div#test h4{
+	text-align: center;
+	color:  #A9A9A9;
+}
+
+div#text1 h3{
+  float: left;
+  margin-left: 7%;
+}
+div#text1 div#h3 h3{
+  margin-left:16%;
+}
+.clearfix{
+	clear: both;
+
+}
+
+div#text2{
+
+	width: 90%;
+margin-left:5%;
+	margin-right: 5%;
+}
+div#text2  div{
+float: left;
+margin-left: 2%;
+
+}
+div#tex2 div#image1 img{
+width: %;
+}
+div#tex2 div#image2 img{
+width: %;
+}
+div#tex2 div#image3 img{
+width: %;
+}
+div#text2  h4{
+   color: #A9A9A9;
+}
+div#text2 div#texto  h3{
+	color:#FEC409;
+}
+
+.clearfix{
+	clear: both;
+}
+
+div.photo{
+	width: 100%;
+	height: 600px;
+background-image: url(images/image1.jpg);
+padding-top: 15px;
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+}
+
+.photo h1{
+
+}
+div.photo h4{
+
+}
+.main1{
+	float: left;
+	width: 20%;
+	height: 350px;
+	margin-left: 5%;
+	transform-style: preserve-3d;
+	transition: 0.5s;
+	transform: rotateY(0deg); 
+	perspective: 800px;
+}
+.photo1 h1{
+	color: white;
+	text-align:center;
+}
+.photo1 h4{
+	color: white;
+	text-align:center;
+}
+.main1:hover{
+	cursor: pointer;
+	transform: rotateY(180deg);
+}
+
+.first{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	backface-visibility: 
+
+}
+.main1 h2{
+	color:white;
+	font-size:20px;
+	margin-top: 50%;
+}
+.main1 h4{
+	color:white;
+	font-size: 20px;
+	
+}
+
+
+.second{
+position:absolute;
+width: 100%;
+height: 100%;
+backface-visibility: hidden;
+background-color:#FEC303;
+color: white;
+transform: rotateY(180deg); 
+text-align: center;
+perspective:800px;
+
+}
+.main1>.first img{
+	width: 90%;
+	height: 100%;
+}
+
+.main{
+	position: absolute;
+	width: 90%;
+	height:350px;
+	margin-left: 5%;
+	margin-bottom:30px;
+
+	perspective: 800px;
+	margin-left: 5%
+
+
+}
+/*.toto{
+	height: 40px;
+	width: 100%;
+
+}*/
+.toto i{
+	float: left;
+	margin-left: 10%;
+    width:20%;
+    height: 30px;
+
+}
+.pelu{
+font-size:20px;
+background:white;
+color: black;
+font-size:50px
+padding-top:5px;
+border-radius: 50% 50% 50% 50%; 
+width: 50%;
+height: 20px;
+padding-top: 10px;
+
+}
+.pelu:hover{
+ background-color: lightblue;
+ color: white;
+}
+ 
+.tutor{
+font-size:20px;
+background:white;
+color: black;
+font-size:50px
+padding-top:5px;
+border-radius: 50% 50% 50% 50%; 
+width: 50%;
+height: 20px;
+padding-top: 10px;
+
+}
+.tutor:hover{
+ background-color: lightblue;
+ color: white;
+}
+.collo{
+font-size:20px;
+background:white;
+color: black;
+font-size:50px
+padding-top:5px;
+border-radius: 50% 50% 50% 50%; 
+width: 50%;
+height: 20px;
+padding-top: 10px;
+
+}
+.collo:hover{
+ background-color:#F26522;
+ color: white;
+}
+
+.clearfix{
+	clear: both;
+}
+
+
+div#blog div#blog1 h1{
+	text-align: center;
+	color:black;
+}
+div#blog div#blog1 h4{
+	text-align: center;
+	color: #A9A9A9;
+}
+div#blog2{
+margin-left:10%;
+margin-top: 10%;
+}
+div#blog2 div{
+margin-left: 5%;
+float: left;
+}
+div#blog2 div img:hover{
+overflow: hidden;
+}
+
+
+div#blog2  h4{
+    color: #A9A9A9;
+}
+.clearfix{
+	clear: both;
+}
+div#blog3{
+margin-left:10%;
+margin-top: 10%;
+}
+div#blog3 div{
+margin-right: 5%;
+float:right;
+}
+
+div#blog3  h4{
+    color: #A9A9A9;
+}
+.clearfix{
+	clear: both;
+}
+div#blog4{
+margin-left:10%;
+margin-top: 10%;
+}
+div#blog4 div{
+margin-right: 5%;
+float:left;
+}
+
+div#blog4  h4{
+    color: #A9A9A9;
+}
+.clearfix{
+	clear: both;
+}
+div#rates{
+width: 100%;
+height: 800px;
+background-image: url(images/image1.jpg);
+margin-top: 60px;
+background-repeat: no-repeat;
+background-size: cover;
+padding-top: 20px;
+background-attachment:fixed;
+}
+div#rates div h1{
+	color: white; 
+	text-align: center;
+	margin-top: 30px;
+	font-size: 70px;
+
+}
+div#rates div h4{
+	color: white; 
+	text-align: center;
+	margin-bottom: 30px;
+}
+  div#rates div#rates2{
+	width: 60%;
+	height: 470px;
+    background-color: white;
+    margin-left:20%;
+    margin-right: 20%;
+    margin-top: 70px;
+}
+ div#rates div#rates2 div{
+	float: left;
+	margin-left: 10%;
+	height: 100%;
+}
+div#rates div#rates2 div#rates3 h3{
+margin-top: 2px;
+height: 100%;
+}
+div#rates div#rates2 div#rates4{
+border-left: solid 1px gray;
+height: 100%;
+padding-left: 20%;
+margin-top:2px;
+
+}
+div#rates div#rates2 div#rates4 h3{
+margin-top:5%;
+}
+.clearfix{
+	clear: both;
+}
+div#contact h1{
+	text-align: center;
+}
+div#contact h4{
+	text-align: center;
+    color: #A9A9A9;
+}
+div#contact2 div{
+	float: left;
+	margin:30px 10%;
+}
+div#contact2 div h4{
+color: #A9A9A9;	
+}
+.clearfix{
+	clear: both;
+}
+div#contact3{
+	margin-left:10%;
+}
+div#contact4 div{
+	float: left;
+	margin-left:5%;
+}
+div#contact4 div input{
+	width: 150%;
+	border: 1px solid black;
+	border: none;
+	border-bottom: solid 1px gray;
+	border-bottom-width: 50%;
+	outline: 0;	
+
+}
+div#contact4 div#contact5{
+	width: 20%
+}
+
+div#contact4 div#contact6{
+	margin-left: 20%;
+	width: 20%
+}
+div#contact4 div input:focus{
+   border-bottom: solid 2px #fe7303;
+
+}
+
+.clearfix{
+	clear: both;
+}
+div#contact7 div{
+	float: left;
+	margin-left: 10%;
+	margin-top: 30px;
+}
+div#contact7 div input{
+	width: 150%;
+	border: 1px solid black;
+	border: none;
+	border-bottom: solid 1px gray;
+	border-bottom-width: 50%;
+	outline: 0;	
+
+}
+div#contact7 div#contact8{
+
+	width: 20%
+}
+
+div#contact7 div#contact9{
+	margin-left:20%;
+	width: 20%
+}
+div#contact7 div :focus{
+   border-bottom: solid 2px #fe7303;
+   border-bottom: margin-top 30px;
+
+}
+.clearfix{
+	clear: both;
+}
+div#contact11{
+ margin-left: 10%;
+ margin-top: 30px;
+}
+div#contact11 div input{
+	width:70%;
+	border:none;
+	border-bottom-width:50%;
+	border-bottom: 1px solid gray;
+	outline: none;
+
+}
+div#contact12 div input:focuse{
+ border-bottom: 2px solid #fe7303;
+  border-bottom: margin-top 30px;
+  color: yellow;
+
+}
+
+ div#contact10{
+	margin-left:20%;
+	width: 20%
+}
+button {
+	width: 10%;
+	height: 40px;
+	background-color:#FFBD19;
+	margin-left: 10%;
+	margin-top: 30px;
+	transition: 0.5s;
+	border:none;
+	margin-bottom: 30px;
+	outline: none;
+}
+button:hover{
+    border: 1px solid black;
+    background-color:white;
+}
+div#location h2{
+margin-left: 10%;
+
+}
+div#location1{
+	width: 80%;
+   height: 450px;
+	background-color: gray;
+	margin-bottom: 50px;
+	margin-right: 10%;
+	margin-left: 10%;
+}
+div#last{
+	width: 100%;
+   height:450px;
+	background-color: black;
+}
+div#last div{
+ float: left;
+ margin-left: 2%;
+ font-size:15px;
+}
+div#last h1{
+ color: white;
+ font-family: arial black;
+}
+div#last h4{
+ color: gray;
+ font-family: arial black;
+}
+div#last div#last2 .fa{
+	color: lightblue;
+	font-size:20px;
+}
+div#last div#last2 h4{
+	color: gray;
+	font-family: arial black;
+}
+div#last div#last2 a{
+	color: yellow;
+	text-decoration: none;
+}
+div#last div#last2 h3{
+	color: gray;
+	font-family: arial black;
+}
+ 
+div#last div#last3 h4 a{
+	color: gray;
+	text-decoration:none;
+	font-family: arial black;
+}
+.you .fa{
+	background-color:#5D82D2;
+	width:25px;
+	height: 25px;
+	padding-left: 14px;
+	padding-top: 10px;
+	color: white;
+	border-radius: 50% 50% 50% 50%;
+	margin-right: 20px;
+}
+div#last div#last3 div.you h4 a:hover{
+	color:#5D82D2 ;
+	cursor: all;
+}
+
+.my .fa{
+	background-color:#3BBEF5;
+	width:25px;
+	height: 25px;
+	padding-left: 14px;
+	padding-top: 10px;
+	color: white;
+	border-radius: 50% 50% 50% 50%;
+	margin-right: 20px;
+}
+
+div#last div#last3 div.my h4 a:hover{
+	color:#3BBEF5;
+	cursor: all;
+}
+.me .fa{
+	background-color:#EA5D4B;
+	width:25px;
+	height: 25px;
+	padding-left: 14px;
+	padding-top: 10px;
+	color: white;
+	border-radius: 50% 50% 50% 50%;
+	margin-right: 20px;
+}
+
+div#last div#last3 div.me h4 a:hover{
+	color:#EA5D4B;
+	cursor: all;
+}
+.she .fa{
+	background-color:#F7659B;
+	width:25px;
+	height: 25px;
+	padding-left: 14px;
+	padding-top: 10px;
+	color: white;
+	border-radius: 50% 50% 50% 50%;
+	margin-right: 20px;
+}
+
+div#last div#last3 div.she h4 a:hover{
+	color:#F7659B;
+	cursor: all;
+}
+
+.he .fa{
+	background-color:#E23139;
+	width:25px;
+	height: 25px;
+	padding-left: 14px;
+	padding-top: 10px;
+	color: white;
+	border-radius: 50% 50% 50% 50%;
+	margin-right: 20px;
+}
+
+div#last div#last3 div.he h4 a:hover{
+	color:#E23139;
+	cursor: all;
+}
+.arrow{
+width: 95%;
+}
+.arrow a{
+	float: right;
+font-size:20px;
+font	
+}
